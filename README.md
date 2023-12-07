@@ -19,6 +19,8 @@ Please install PyTorch Cuda version & requirements.txt to run the code.
 
 To save GPU RAM, 3D tasks usually only use one transformer layer, i.e., `--translayers 1`.
 
+### Accuracy achieved for BRATS 2019
+![image](https://github.com/HarshDutt17/tumor-detection/assets/78022802/64c5b9d1-fd11-43c1-b739-26b5c1ebac23)
 
 
 ### Acknowledgement
